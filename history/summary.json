@@ -1,7 +1,27 @@
 [
   {
+    "name": "Discutons",
+    "url": "https://discutons.incongru.org/",
+    "icon": "https://favicons.githubusercontent.com/discutons.incongru.org",
+    "slug": "discutons",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 219,
+    "timeDay": 219,
+    "timeWeek": 219,
+    "timeMonth": 219,
+    "timeYear": 219,
+    "dailyMinutesDown": {
+      "2022-07-24": 12
+    }
+  },
+  {
     "name": "Le Grand Cahier",
-    "url": "https://legrandcahier.incongru.org",
+    "url": "https://legrandcahier.incongru.org/",
     "icon": "https://favicons.githubusercontent.com/legrandcahier.incongru.org",
     "slug": "le-grand-cahier",
     "status": "down",
@@ -16,7 +36,79 @@
     "timeMonth": 204,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2022-07-24": 9
+      "2022-07-24": 394
     }
+  },
+  {
+    "name": "Musiques Incongrues",
+    "url": "https://www.musiques-incongrues.net/forum/",
+    "icon": "https://favicons.githubusercontent.com/www.musiques-incongrues.net",
+    "slug": "musiques-incongrues",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 881,
+    "timeDay": 881,
+    "timeWeek": 881,
+    "timeMonth": 881,
+    "timeYear": 881,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Musique Approximative",
+    "url": "https://www.musiqueapproximative.net",
+    "icon": "https://favicons.githubusercontent.com/www.musiqueapproximative.net",
+    "slug": "musique-approximative",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 408,
+    "timeDay": 408,
+    "timeWeek": 408,
+    "timeMonth": 408,
+    "timeYear": 408,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Da ! Heard It Records",
+    "url": "https://www.daheardit-records.net",
+    "icon": "https://favicons.githubusercontent.com/www.daheardit-records.net",
+    "slug": "da-heard-it-records",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 649,
+    "timeDay": 649,
+    "timeWeek": 649,
+    "timeMonth": 649,
+    "timeYear": 649,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Ouïedire",
+    "url": "https://www.ouiedire.net",
+    "icon": "https://favicons.githubusercontent.com/www.ouiedire.net",
+    "slug": "ouiedire",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1125,
+    "timeDay": 1125,
+    "timeWeek": 1125,
+    "timeMonth": 1125,
+    "timeYear": 1125,
+    "dailyMinutesDown": {}
   }
 ]
