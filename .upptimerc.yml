@@ -2,19 +2,19 @@ owner: constructions-incongrues
 repo: status
 
 sites:
-  - name: Da ! Heard It Records
+  - name: daheardit-records.net
     url: https://www.daheardit-records.net
-  - name: Discutons
+  - name: discutons.incongru.org
     url: https://discutons.incongru.org
-  - name: Le Grand Cahier
+  - name: legrandcahier.incongru.org
     url: https://legrandcahier.incongru.org
-  - name: Musiques Incongrues
+  - name: musiques-incongrues.net
     url: https://www.musiques-incongrues.net/forum/
-  - name: Musique Approximative
+  - name: musiqueapproximative.net
     url: https://www.musiqueapproximative.net
-  - name: Ouïedire
+  - name: ouiedire.net
     url: https://www.ouiedire.net
-  - name: Nul Si Découvert
+  - name: nulsidecouvert.org
     url: https://nulsidecouvert.org
 
 assignees:
