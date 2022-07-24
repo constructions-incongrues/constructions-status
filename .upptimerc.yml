@@ -1,32 +1,25 @@
-# Change these first
-owner: constructions-incongrues # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: constructions-incongrues
+repo: status
 
 sites:
+  - name: Da ! Heard It Records
+    url: https://www.daheardit-records.net
   - name: Discutons
-    url: https://discutons.incongru.org/
+    url: https://discutons.incongru.org
   - name: Le Grand Cahier
-    url: https://legrandcahier.incongru.org/
+    url: https://legrandcahier.incongru.org
   - name: Musiques Incongrues
     url: https://www.musiques-incongrues.net/forum/
   - name: Musique Approximative
     url: https://www.musiqueapproximative.net
-  - name: Da ! Heard It Records
-    url: https://www.daheardit-records.net
   - name: Ouïedire
     url: https://www.ouiedire.net
+  - name: Nul Si Découvert
+    url: https://nulsidecouvert.org
 
+assignees:
+  - trivoallan
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.constructions-incongrues.net
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Constructions Incongrues
-  navbar:
-    - title: Status
-      href: /
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
