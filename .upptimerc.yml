@@ -120,10 +120,16 @@ sites:
     url: https://simbertier.musiques-incongrues.net
   - name: ouiedire.net
     url: https://ouiedire.net
+    assignees:
+      - johan-ci
   - name: daheardit-records.net
     url: https://daheardit-records.net
+    assignees:
+      - johan-ci
   - name: api.daheardit-records.net
     url: https://api.daheardit-records.net
+    assignees:
+      - johan-ci
   - name: leseditionsduchevet.fr
     url: https://leseditionsduchevet.fr
   - name: vortex-zine.net
