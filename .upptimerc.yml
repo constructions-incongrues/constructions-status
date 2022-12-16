@@ -132,8 +132,6 @@ sites:
       - johan-ci
   - name: leseditionsduchevet.fr
     url: https://leseditionsduchevet.fr
-  - name: vortex-zine.net
-    url: https://vortex-zine.net
   - name: degelite.org
     url: https://degelite.org
   - name: prototop.be
