@@ -1,7 +1,7 @@
 url: https://partouze-cagoule.fr
-status: up
-code: 200
-responseTime: 479
-lastUpdated: 2023-03-22T23:04:02.370Z
+status: down
+code: 502
+responseTime: 583
+lastUpdated: 2023-03-23T09:21:55.375Z
 startTime: Sun Jul 24 2022 21:40:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
