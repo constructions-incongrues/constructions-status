@@ -1,7 +1,7 @@
 url: https://sauvemoidesagios.resterdigne.net
-status: up
-code: 200
-responseTime: 355
-lastUpdated: 2023-03-22T23:04:07.622Z
+status: down
+code: 502
+responseTime: 441
+lastUpdated: 2023-03-23T09:22:02.272Z
 startTime: Sun Jul 24 2022 21:40:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
