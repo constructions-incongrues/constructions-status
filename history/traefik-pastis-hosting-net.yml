@@ -1,7 +1,7 @@
 url: https://traefik.pastis-hosting.net
-status: up
-code: 200
-responseTime: 326
-lastUpdated: 2024-04-17T23:03:19.993Z
+status: down
+code: 404
+responseTime: 345
+lastUpdated: 2024-04-19T06:28:15.548Z
 startTime: Sun Jul 24 2022 21:40:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
