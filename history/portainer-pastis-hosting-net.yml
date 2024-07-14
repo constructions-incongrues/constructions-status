@@ -1,7 +1,7 @@
 url: https://portainer.pastis-hosting.net
-status: down
-code: 502
-responseTime: 691
-lastUpdated: 2024-07-14T10:22:49.906Z
+status: up
+code: 200
+responseTime: 274
+lastUpdated: 2024-07-14T15:29:14.408Z
 startTime: 2022-07-24T21:40:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
