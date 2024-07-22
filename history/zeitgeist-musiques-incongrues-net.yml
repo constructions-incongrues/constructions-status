@@ -1,7 +1,7 @@
 url: https://zeitgeist.musiques-incongrues.net
-status: up
-code: 200
-responseTime: 1030
-lastUpdated: 2024-07-22T09:59:01.092Z
+status: down
+code: 503
+responseTime: 567
+lastUpdated: 2024-07-22T10:06:57.875Z
 startTime: 2022-07-24T21:41:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
