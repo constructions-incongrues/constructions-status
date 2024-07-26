@@ -6,17 +6,17 @@
     "slug": "traefik-pastis-hosting-net",
     "status": "up",
     "uptime": "62.00%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "23.33%",
-    "uptimeMonth": "40.36%",
-    "uptimeYear": "61.46%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "24.06%",
+    "uptimeMonth": "40.37%",
+    "uptimeYear": "61.48%",
     "time": 911,
     "timeDay": 322,
     "timeWeek": 1404,
     "timeMonth": 6038,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2024-07-25": 18,
+      "2024-07-25": 16,
       "2024-07-24": 453,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
@@ -176,8 +176,7 @@
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
-      "2023-07-28": 1440,
-      "2023-07-27": 1440
+      "2023-07-28": 1440
     }
   }
 ]
