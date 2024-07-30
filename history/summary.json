@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/traefik.pastis-hosting.net.ico",
     "slug": "traefik-pastis-hosting-net",
     "status": "up",
-    "uptime": "62.16%",
+    "uptime": "62.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "66.93%",
-    "uptimeMonth": "40.37%",
-    "uptimeYear": "62.30%",
+    "uptimeWeek": "81.21%",
+    "uptimeMonth": "41.39%",
+    "uptimeYear": "62.57%",
     "time": 923,
-    "timeDay": 3845,
-    "timeWeek": 1687,
-    "timeMonth": 6063,
-    "timeYear": 1105,
+    "timeDay": 466,
+    "timeWeek": 1699,
+    "timeMonth": 5936,
+    "timeYear": 1103,
     "dailyMinutesDown": {
       "2024-07-25": 16,
       "2024-07-24": 453,
@@ -172,8 +172,7 @@
       "2023-08-04": 1440,
       "2023-08-03": 1440,
       "2023-08-02": 1440,
-      "2023-08-01": 1440,
-      "2023-07-31": 1440
+      "2023-08-01": 1440
     }
   }
 ]
