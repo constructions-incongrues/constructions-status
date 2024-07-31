@@ -2,8 +2,8 @@ owner: constructions-incongrues
 repo: status
 
 sites:
-  - name: traefik.pastis-hosting.net
-    url: https://traefik.pastis-hosting.net/dashboard/#/
+  - name: Musiques Incongrues
+    url: https://www.musiques-incongrues.net/forum/
 
 assignees:
   - trivoallan
