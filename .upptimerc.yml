@@ -2,14 +2,25 @@ owner: constructions-incongrues
 repo: status
 
 sites:
-  - name: Da ! Heard It Records
+  # daheardit-records.net
+  - name: Da ! Heard It Records - home
     url: https://daheardit-records.net/fr/
-  - name: Da ! Heard It Records (api)
+  - name: Da ! Heard It Records  - api
     url: https://api.daheardit-records.net/
     expectedStatusCodes:
       - 403
-  - name: Pastis Hosting
-    url: https://www.pastis-hosting.net
+
+  # musiqueapproximative.net
+  - name: Musique Approximative
+    url: https://www.musiqueapproximative.net/
+  - name: Radio Approximative
+    url: https://radio.musiqueapproximative.net/
+  - name: Quickos Chante Noël
+    url: https://quickoschantenoel.pastis-hosting.net/
+
+  # pastis-hosting.net
+  - name: Pastis Hosting - home
+    url: https://www.pastis-hosting.net/
 
 assignees:
   - trivoallan
@@ -18,8 +29,3 @@ status-website:
   cname: status.constructions-incongrues.net
   name: Constructions Incongrues
   theme: light
-  navbar:
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-    - title: Pastis Hosting
-      href: https://status.pastis-hosting.net
