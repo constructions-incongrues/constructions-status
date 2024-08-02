@@ -29,6 +29,8 @@ sites:
     url: https://zeitgeist.musiques-incongrues.net/
 
   # ouiedire.net
+  - name: Ouïedire
+    url: https://www.ouiedire.net/
 
   # pastis-hosting.net
   - name: Pastis Hosting - home
