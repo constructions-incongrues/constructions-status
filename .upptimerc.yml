@@ -49,3 +49,6 @@ status-website:
   cname: status.constructions-incongrues.net
   name: Constructions Incongrues
   theme: light
+  introTitle: Constructions Incongrues
+  introMessage: https://www.constructions-incongrues.net
+
