@@ -1,18 +1,11 @@
 owner: constructions-incongrues
 repo: status
 
-status-website:
-  navbar:
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-    - title: Constructions Incongrues
-      href: https://www.pastis-hosting.net
-    - title: Pastis Hosting
-      href: https://www.pastis-hosting.net
-
 sites:
   - name: Da ! Heard It Records
     url: https://daheardit-records.net/fr/
+  - name: Da ! Heard It Records (api)
+    url: https://api.daheardit-records.net/
   - name: Musiques Incongrues
     url: https://www.musiques-incongrues.net/forum/
   - name: Pastis Hosting
@@ -24,3 +17,10 @@ assignees:
 status-website:
   cname: status.constructions-incongrues.net
   name: Constructions Incongrues
+  navbar:
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+    - title: Constructions Incongrues
+      href: https://www.pastis-hosting.net
+    - title: Pastis Hosting
+      href: https://www.pastis-hosting.net
