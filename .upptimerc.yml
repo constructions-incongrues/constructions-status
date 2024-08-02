@@ -25,6 +25,10 @@ sites:
   # musiques-incongrues.net
   - name: Musiques Incongrues
     url: https://www.musiques-incongrues.net/forum/
+  - name: Zeitgeist Incongru
+    url: https://zeitgeist.musiques-incongrues.net/
+
+  # ouiedire.net
 
   # pastis-hosting.net
   - name: Pastis Hosting - home
