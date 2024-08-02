@@ -25,6 +25,8 @@ sites:
   # musiques-incongrues.net
   - name: Musiques Incongrues
     url: https://www.musiques-incongrues.net/forum/
+  - name: Sim Bertier
+    url: https://simbertier.musiques-incongrues.net/
   - name: Zeitgeist Incongru
     url: https://zeitgeist.musiques-incongrues.net/
 
@@ -32,8 +34,12 @@ sites:
   - name: Ouïedire
     url: https://www.ouiedire.net/
 
+  # pardon-my-french.fr
+  - name: Pardon My French
+    url: https://www.pardon-my-french.fr/
+
   # pastis-hosting.net
-  - name: Pastis Hosting - home
+  - name: Pastis Hosting
     url: https://www.pastis-hosting.net/
 
 assignees:
