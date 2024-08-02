@@ -20,7 +20,7 @@ sites:
   - name: Radio Approximative
     url: https://radio.musiqueapproximative.net/
   - name: Quickos Chante Noël
-    url: https://quickoschantenoel.pastis-hosting.net/
+    url: https://quickoschantenoel.musiqueapproximative.net/
 
   # musiques-incongrues.net
   - name: Musiques Incongrues
