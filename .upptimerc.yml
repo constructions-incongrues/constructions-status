@@ -6,6 +6,8 @@ sites:
     url: https://daheardit-records.net/fr/
   - name: Musiques Incongrues
     url: https://www.musiques-incongrues.net/forum/
+  - name: Pastis Hosting
+    url: https://www.pastis-hosting.net
 
 assignees:
   - trivoallan
