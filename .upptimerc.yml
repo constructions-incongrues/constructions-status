@@ -8,8 +8,6 @@ sites:
     url: https://api.daheardit-records.net/
     expectedStatusCodes:
       - 403
-  - name: Musiques Incongrues
-    url: https://www.musiques-incongrues.net/forum/
   - name: Pastis Hosting
     url: https://www.pastis-hosting.net
 
@@ -19,8 +17,9 @@ assignees:
 status-website:
   cname: status.constructions-incongrues.net
   name: Constructions Incongrues
+  theme: light
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Pastis Hosting
-      href: https://www.pastis-hosting.net
+      href: https://status.pastis-hosting.net
