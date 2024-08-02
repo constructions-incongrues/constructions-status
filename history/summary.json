@@ -52,7 +52,7 @@
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2024-08-02": 5
+      "2024-08-02": 25
     }
   },
   {
@@ -96,18 +96,20 @@
     "url": "https://quickoschantenoel.pastis-hosting.net/",
     "icon": "https://icons.duckduckgo.com/ip3/quickoschantenoel.pastis-hosting.net.ico",
     "slug": "quickos-chante-noel",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 282,
-    "timeWeek": 282,
-    "timeMonth": 282,
-    "timeYear": 282,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 245,
+    "timeDay": 245,
+    "timeWeek": 245,
+    "timeMonth": 245,
+    "timeYear": 245,
+    "dailyMinutesDown": {
+      "2024-08-02": 0
+    }
   },
   {
     "name": "Musiques Incongrues",
@@ -115,11 +117,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.musiques-incongrues.net.ico",
     "slug": "musiques-incongrues",
     "status": "down",
-    "uptime": "80.40%",
+    "uptime": "80.64%",
     "uptimeDay": "77.62%",
-    "uptimeWeek": "80.40%",
-    "uptimeMonth": "80.40%",
-    "uptimeYear": "80.40%",
+    "uptimeWeek": "80.64%",
+    "uptimeMonth": "80.64%",
+    "uptimeYear": "80.64%",
     "time": 802,
     "timeDay": 653,
     "timeWeek": 783,
