@@ -22,7 +22,5 @@ status-website:
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: Constructions Incongrues
-      href: https://www.pastis-hosting.net
     - title: Pastis Hosting
       href: https://www.pastis-hosting.net
