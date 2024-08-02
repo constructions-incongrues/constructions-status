@@ -49,5 +49,5 @@ status-website:
   cname: status.constructions-incongrues.net
   name: Constructions Incongrues
   theme: light
-  introTitle: [Constructions Incongrues](https://www.constructions-incongrues.net)
+  introTitle: "[Constructions Incongrues](https://www.constructions-incongrues.net)"
   introMessage: Status Page
