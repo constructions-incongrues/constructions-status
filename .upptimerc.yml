@@ -10,6 +10,10 @@ sites:
     expectedStatusCodes:
       - 403
 
+  # incongru.org
+  - name: urlinfo
+    url: https://urlinfo.incongru.org/
+
   # musiqueapproximative.net
   - name: Musique Approximative
     url: https://www.musiqueapproximative.net/
@@ -17,6 +21,10 @@ sites:
     url: https://radio.musiqueapproximative.net/
   - name: Quickos Chante Noël
     url: https://quickoschantenoel.pastis-hosting.net/
+
+  # musiques-incongrues.net
+  - name: Musiques Incongrues
+    url: https://www.musiques-incongrues.net/forum/
 
   # pastis-hosting.net
   - name: Pastis Hosting - home
