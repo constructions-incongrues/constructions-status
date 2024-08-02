@@ -6,6 +6,8 @@ sites:
     url: https://daheardit-records.net/fr/
   - name: Da ! Heard It Records (api)
     url: https://api.daheardit-records.net/
+    expectedStatusCodes:
+      - 403
   - name: Musiques Incongrues
     url: https://www.musiques-incongrues.net/forum/
   - name: Pastis Hosting
