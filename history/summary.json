@@ -1,22 +1,40 @@
 [
   {
+    "name": "Da ! Heard It Records",
+    "url": "https://daheardit-records.net/fr/",
+    "icon": "https://icons.duckduckgo.com/ip3/daheardit-records.net.ico",
+    "slug": "da-heard-it-records",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 609,
+    "timeDay": 568,
+    "timeWeek": 568,
+    "timeMonth": 568,
+    "timeYear": 568,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Musiques Incongrues",
     "url": "https://www.musiques-incongrues.net/forum/",
     "icon": "https://icons.duckduckgo.com/ip3/www.musiques-incongrues.net.ico",
     "slug": "musiques-incongrues",
     "status": "down",
-    "uptime": "79.28%",
-    "uptimeDay": "78.76%",
-    "uptimeWeek": "79.28%",
-    "uptimeMonth": "79.28%",
-    "uptimeYear": "79.28%",
+    "uptime": "78.66%",
+    "uptimeDay": "77.95%",
+    "uptimeWeek": "78.66%",
+    "uptimeMonth": "78.66%",
+    "uptimeYear": "78.66%",
     "time": 802,
     "timeDay": 653,
     "timeWeek": 783,
     "timeMonth": 783,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2024-08-02": 14,
+      "2024-08-02": 26,
       "2024-08-01": 291
     }
   }
