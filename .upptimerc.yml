@@ -19,8 +19,10 @@ sites:
     url: https://www.mazemod.org/
 
   # millemilliards.net
-  - name: Mille Milliards
-    url: https://www.millemilliards.net/
+  - name: Mille Milliards - Identités
+    url: https://www.millemilliards.net/identites/
+  - name: Mille Milliards - Tirages Ingrats
+    url: https://www.millemilliards.net/tiragesingrats/
 
   # musiqueapproximative.net
   - name: Musique Approximative
@@ -62,3 +64,14 @@ status-website:
   navbar:
     - title: Interzone Network
       href: https://status.interzone.network
+
+# - name: parishq.net
+#     url: https://www.parishq.net
+#   - name: partouze-cagoule
+#     url: https://www.partouze-cagoule.fr
+#   - name: pastis-hosting
+#     url: https://www.pastis-hosting
+#   - name: resterdigne.net
+#     url: https://www.resterdigne.net
+#   - name: ruedesgardes.org
+#     url: https://www.ruedesgardes.org
