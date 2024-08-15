@@ -21,10 +21,8 @@ sites:
   # musiqueapproximative.net
   - name: Musique Approximative
     url: https://www.musiqueapproximative.net/
-  - name: Radio Approximative
+  - name: Musique Approximative - Radio
     url: https://radio.musiqueapproximative.net/
-  - name: Quickos Chante Noël
-    url: https://quickoschantenoel.musiqueapproximative.net/
 
   # musiques-incongrues.net
   - name: Musiques Incongrues
