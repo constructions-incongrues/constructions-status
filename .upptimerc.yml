@@ -11,7 +11,7 @@ sites:
       - 403
 
   # incongru.org
-  - name: urlinfo
+  - name: URL Info
     url: https://urlinfo.incongru.org/
 
   # musiqueapproximative.net
@@ -25,10 +25,6 @@ sites:
   # musiques-incongrues.net
   - name: Musiques Incongrues
     url: https://www.musiques-incongrues.net/forum/
-  - name: Sim Bertier
-    url: https://simbertier.musiques-incongrues.net/
-  - name: Zeitgeist Incongru
-    url: https://zeitgeist.musiques-incongrues.net/
 
   # ouiedire.net
   - name: Ouïedire
@@ -41,6 +37,14 @@ sites:
   # pastis-hosting.net
   - name: Pastis Hosting
     url: https://www.pastis-hosting.net/
+
+  # thebrainradio.com
+  - name: The Brain
+    url: https://www.thebrainradio.com/
+
+  # thisisradioclash.org
+  - name: This Is Radioclash
+    url: https://www.thisisradioclash.org/
 
 assignees:
   - trivoallan
