@@ -22,7 +22,7 @@ sites:
   - name: Mille Milliards - Identités
     url: https://www.millemilliards.net/identites/
   - name: Mille Milliards - Tirages Ingrats
-    url: https://www.millemilliards.net/tiragesingrats/
+    url: https://tiragesingrats.millemilliards.net/
 
   # musiqueapproximative.net
   - name: Musique Approximative
