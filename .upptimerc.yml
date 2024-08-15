@@ -18,6 +18,10 @@ sites:
   - name: Mazemod
     url: https://www.mazemod.org/
 
+  # millemilliards.net
+  - name: Mille Milliards
+    url: https://www.millemilliards.net/
+
   # musiqueapproximative.net
   - name: Musique Approximative
     url: https://www.musiqueapproximative.net/
