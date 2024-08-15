@@ -54,6 +54,7 @@ assignees:
 status-website:
   cname: status.constructions-incongrues.net
   name: Constructions Incongrues
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   navbar:
     - title: Interzone Network
       href: https://status.interzone.network
