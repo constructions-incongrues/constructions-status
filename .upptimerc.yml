@@ -54,7 +54,6 @@ assignees:
 status-website:
   cname: status.constructions-incongrues.net
   name: Constructions Incongrues
-  theme: light
   navbar:
-    - title: Constructions Incongrues
-      href: /
+    - title: Interzone Network
+      href: https://status.interzone.network
