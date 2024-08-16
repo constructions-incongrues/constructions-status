@@ -11,6 +11,10 @@ sites:
       - 403
 
   # incongru.org
+  - name: Discutons
+    url: https://discutons.incongru.org/
+  - name: Le Grand Cahier
+    url: https://legrandcahier.incongru.org/
   - name: URL Info
     url: https://urlinfo.incongru.org/
 
