@@ -23,6 +23,7 @@ sites:
     url: https://www.millemilliards.net/identites/
   - name: Mille Milliards - Tirages Ingrats
     url: https://tiragesingrats.millemilliards.net/
+    maxResponseTime: 10000
 
   # musiqueapproximative.net
   - name: Musique Approximative
