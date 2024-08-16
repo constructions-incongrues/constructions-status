@@ -67,8 +67,12 @@ status-website:
   name: Constructions Incongrues
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   navbar:
+    - title: Constructions Incongrues
+      href: https://status.constructions-incongrues.net
     - title: Interzone Network
       href: https://status.interzone.network
+    - title: Pastis Hosting
+      href: https://pastis-hosting.net
 
 # - name: parishq.net
 #     url: https://www.parishq.net
