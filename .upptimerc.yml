@@ -53,6 +53,12 @@ sites:
   - name: Pastis Hosting
     url: https://www.pastis-hosting.net/
 
+  # ruedesgardes.org
+  - name: Aire de Jeux
+    url: https://airedejeux.ruedesgardes.org
+  - name: Pouézie
+    url: https://pouezie.ruedesgardes.org
+
   # thebrainradio.com
   - name: The Brain
     url: https://www.thebrainradio.com/
