@@ -20,7 +20,7 @@ sites:
 
   # mazemod.org
   - name: Mazemod
-    url: https://www.mazemod.org/
+    url: https://www.mazemod.org
 
   # millemilliards.net
   - name: Mille Milliards - Identités
@@ -33,7 +33,7 @@ sites:
   - name: Musique Approximative
     url: https://www.musiqueapproximative.net/
   - name: Musique Approximative - Radio
-    url: https://radio.musiqueapproximative.net/
+    url: https://radio.musiqueapproximative.net
 
   # musiques-incongrues.net
   - name: Musiques Incongrues
