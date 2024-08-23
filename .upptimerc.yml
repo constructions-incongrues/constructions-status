@@ -70,9 +70,11 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: dark
   navbar:
-    - title: Interzone Network
+    - title: Interzone
       href: https://status.interzone.network
-    - title: Pastis Hosting
+    - title: Pantagruweb
+      href: https://status.pantagruweb.club
+    - title: Pastis
       href: https://pastis-hosting.net
 
 # - name: parishq.net
