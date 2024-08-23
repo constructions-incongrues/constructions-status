@@ -72,6 +72,8 @@ status-website:
   navbar:
     - title: Interzone
       href: https://status.interzone.network
+    - title: Jean-Cloude
+      href: https://status.jeancloude.club
     - title: Pantagruweb
       href: https://status.pantagruweb.club
     - title: Pastis
