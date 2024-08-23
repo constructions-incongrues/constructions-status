@@ -12,13 +12,13 @@ sites:
 
   # incongru.org
   - name: Discutons
-    url: https://discutons.incongru.org/
+    url: https://discutons.incongru.org
   - name: Empilements
     url: https://empilements.incongru.org
   - name: Le Grand Cahier
-    url: https://legrandcahier.incongru.org/
+    url: https://legrandcahier.incongru.org
   - name: URL Info
-    url: https://urlinfo.incongru.org/
+    url: https://urlinfo.incongru.org
 
   # mazemod.org
   - name: Mazemod
