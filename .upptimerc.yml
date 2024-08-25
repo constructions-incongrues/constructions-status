@@ -53,6 +53,10 @@ sites:
   - name: Pastis Hosting
     url: https://www.pastis-hosting.net/
 
+  # resterdigne.net
+  - name: Coller
+    url: https://coller.resterdigne.net
+  
   # ruedesgardes.org
   - name: Aire de Jeux
     url: https://airedejeux.ruedesgardes.org
