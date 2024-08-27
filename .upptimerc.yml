@@ -56,6 +56,10 @@ sites:
   # resterdigne.net
   - name: Coller
     url: https://coller.resterdigne.net
+  - name: Faire Caca 2017
+    url: https://fairecaca2017.resterdigne.net
+  - name: La Grande Purge
+    url: https://lagrandepurge.resterdigne.net
   
   # ruedesgardes.org
   - name: Aire de Jeux
