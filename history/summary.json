@@ -38,7 +38,7 @@
     "timeMonth": 556,
     "timeYear": 2182,
     "dailyMinutesDown": {
-      "2024-10-02": 897,
+      "2024-10-02": 900,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
@@ -907,7 +907,7 @@
     "timeMonth": 117,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2024-10-02": 897,
+      "2024-10-02": 901,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
@@ -1003,19 +1003,19 @@
     "url": "https://www.partouze-cagoule.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.partouze-cagoule.fr.ico",
     "slug": "partouze-cagoule",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 473,
-    "timeWeek": 383,
-    "timeMonth": 391,
-    "timeYear": 395,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 396,
+    "timeDay": 444,
+    "timeWeek": 387,
+    "timeMonth": 392,
+    "timeYear": 396,
     "dailyMinutesDown": {
-      "2024-10-02": 1
+      "2024-10-02": 4
     }
   },
   {
