@@ -746,16 +746,16 @@
     "url": "https://www.musiques-incongrues.net/forum/",
     "icon": "https://icons.duckduckgo.com/ip3/www.musiques-incongrues.net.ico",
     "slug": "musiques-incongrues",
-    "status": "up",
-    "uptime": "92.97%",
-    "uptimeDay": "14.59%",
-    "uptimeWeek": "14.22%",
-    "uptimeMonth": "56.58%",
-    "uptimeYear": "92.97%",
-    "time": 512,
-    "timeDay": 669,
-    "timeWeek": 629,
-    "timeMonth": 604,
+    "status": "down",
+    "uptime": "93.00%",
+    "uptimeDay": "14.56%",
+    "uptimeWeek": "14.28%",
+    "uptimeMonth": "56.73%",
+    "uptimeYear": "93.00%",
+    "time": 511,
+    "timeDay": 670,
+    "timeWeek": 627,
+    "timeMonth": 603,
     "timeYear": 511,
     "dailyMinutesDown": {
       "2025-02-04": 1218,
@@ -772,7 +772,7 @@
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1407,
-      "2025-01-21": 360
+      "2025-01-21": 294
     }
   },
   {
@@ -849,7 +849,7 @@
     "uptime": "89.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "49.27%",
+    "uptimeMonth": "49.25%",
     "uptimeYear": "89.26%",
     "time": 403,
     "timeDay": 410,
@@ -857,7 +857,7 @@
     "timeMonth": 429,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2025-02-04": 1405,
+      "2025-02-04": 1411,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
