@@ -1,7 +1,7 @@
 url: https://api.daheardit-records.net/
-status: up
-code: 403
-responseTime: 453
-lastUpdated: 2025-02-20T23:02:09.088Z
+status: down
+code: 404
+responseTime: 560
+lastUpdated: 2025-02-21T00:30:55.948Z
 startTime: 2024-08-02T01:44:34.303Z
 generator: Upptime <https://github.com/upptime/upptime>
