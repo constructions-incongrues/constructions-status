@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/daheardit-records.net.ico",
     "slug": "da-heard-it-records-home",
     "status": "down",
-    "uptime": "98.57%",
-    "uptimeDay": "2.41%",
-    "uptimeWeek": "86.06%",
-    "uptimeMonth": "96.79%",
-    "uptimeYear": "98.57%",
+    "uptime": "98.56%",
+    "uptimeDay": "1.44%",
+    "uptimeWeek": "85.92%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "98.56%",
     "time": 695,
     "timeDay": 519,
     "timeWeek": 705,
     "timeMonth": 721,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2025-02-21": 1405,
+      "2025-02-22": 10,
+      "2025-02-21": 1409,
       "2024-11-29": 554,
       "2024-11-28": 18,
       "2024-11-12": 688,
@@ -148,7 +149,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "15.01%",
+    "uptimeYear": "15.02%",
     "time": 1159,
     "timeDay": 856,
     "timeWeek": 1094,
@@ -318,8 +319,7 @@
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
-      "2024-02-24": 1440,
-      "2024-02-23": 1440
+      "2024-02-24": 1440
     }
   },
   {
@@ -376,7 +376,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.14%",
+    "uptimeYear": "11.15%",
     "time": 422,
     "timeDay": 0,
     "timeWeek": 0,
@@ -549,8 +549,7 @@
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
-      "2024-02-24": 1440,
-      "2024-02-23": 1440
+      "2024-02-24": 1440
     }
   },
   {
@@ -722,18 +721,19 @@
     "url": "https://www.musiques-incongrues.net/forum/",
     "icon": "https://icons.duckduckgo.com/ip3/www.musiques-incongrues.net.ico",
     "slug": "musiques-incongrues",
-    "status": "up",
-    "uptime": "90.83%",
-    "uptimeDay": "18.88%",
-    "uptimeWeek": "2.76%",
-    "uptimeMonth": "38.22%",
-    "uptimeYear": "90.83%",
-    "time": 532,
-    "timeDay": 688,
-    "timeWeek": 630,
-    "timeMonth": 610,
+    "status": "down",
+    "uptime": "90.84%",
+    "uptimeDay": "19.82%",
+    "uptimeWeek": "2.89%",
+    "uptimeMonth": "38.27%",
+    "uptimeYear": "90.84%",
+    "time": 531,
+    "timeDay": 675,
+    "timeWeek": 620,
+    "timeMonth": 609,
     "timeYear": 531,
     "dailyMinutesDown": {
+      "2025-02-22": 0,
       "2025-02-21": 1165,
       "2025-02-20": 1434,
       "2025-02-19": 1440,
@@ -753,7 +753,7 @@
       "2025-02-05": 1216,
       "2025-02-04": 1223,
       "2025-02-03": 1036,
-      "2025-02-02": 1006
+      "2025-02-02": 981
     }
   },
   {
@@ -789,7 +789,7 @@
     "uptime": "91.42%",
     "uptimeDay": "96.72%",
     "uptimeWeek": "99.53%",
-    "uptimeMonth": "89.45%",
+    "uptimeMonth": "89.48%",
     "uptimeYear": "91.42%",
     "time": 1510,
     "timeDay": 628,
@@ -839,7 +839,8 @@
     "timeMonth": 460,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-02-21": 1437,
+      "2025-02-22": 10,
+      "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
