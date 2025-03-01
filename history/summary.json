@@ -8,7 +8,7 @@
     "uptime": "95.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.42%",
+    "uptimeMonth": "72.41%",
     "uptimeYear": "95.11%",
     "time": 693,
     "timeDay": 752,
@@ -16,7 +16,7 @@
     "timeMonth": 702,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2025-03-01": 592,
+      "2025-03-01": 598,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -714,16 +714,16 @@
     "url": "https://www.musiques-incongrues.net/forum/",
     "icon": "https://icons.duckduckgo.com/ip3/www.musiques-incongrues.net.ico",
     "slug": "musiques-incongrues",
-    "status": "up",
-    "uptime": "89.06%",
-    "uptimeDay": "29.21%",
-    "uptimeWeek": "8.22%",
-    "uptimeMonth": "23.61%",
-    "uptimeYear": "89.06%",
-    "time": 562,
+    "status": "down",
+    "uptime": "89.17%",
+    "uptimeDay": "29.56%",
+    "uptimeWeek": "8.23%",
+    "uptimeMonth": "24.38%",
+    "uptimeYear": "89.17%",
+    "time": 561,
     "timeDay": 694,
-    "timeWeek": 699,
-    "timeMonth": 644,
+    "timeWeek": 690,
+    "timeMonth": 643,
     "timeYear": 561,
     "dailyMinutesDown": {
       "2025-03-01": 427,
@@ -750,8 +750,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1266,
-      "2025-02-05": 1216,
-      "2025-02-04": 5
+      "2025-02-05": 882
     }
   },
   {
@@ -837,7 +836,7 @@
     "timeMonth": 474,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2025-03-01": 592,
+      "2025-03-01": 598,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
