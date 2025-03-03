@@ -8,7 +8,7 @@
     "uptime": "94.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.21%",
+    "uptimeMonth": "67.19%",
     "uptimeYear": "94.40%",
     "time": 692,
     "timeDay": 683,
@@ -16,7 +16,8 @@
     "timeMonth": 697,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2025-03-02": 1435,
+      "2025-03-03": 5,
+      "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -318,8 +319,7 @@
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
-      "2024-03-04": 1440,
-      "2024-03-03": 1440
+      "2024-03-04": 1440
     }
   },
   {
@@ -376,7 +376,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.20%",
+    "uptimeYear": "20.21%",
     "time": 422,
     "timeDay": 0,
     "timeWeek": 0,
@@ -540,8 +540,7 @@
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
-      "2024-03-04": 1440,
-      "2024-03-03": 1440
+      "2024-03-04": 1440
     }
   },
   {
@@ -713,18 +712,19 @@
     "url": "https://www.musiques-incongrues.net/forum/",
     "icon": "https://icons.duckduckgo.com/ip3/www.musiques-incongrues.net.ico",
     "slug": "musiques-incongrues",
-    "status": "up",
-    "uptime": "96.28%",
-    "uptimeDay": "33.19%",
-    "uptimeWeek": "15.22%",
-    "uptimeMonth": "73.80%",
-    "uptimeYear": "96.28%",
-    "time": 576,
-    "timeDay": 696,
-    "timeWeek": 696,
-    "timeMonth": 655,
+    "status": "down",
+    "uptime": "96.29%",
+    "uptimeDay": "33.15%",
+    "uptimeWeek": "15.30%",
+    "uptimeMonth": "73.89%",
+    "uptimeYear": "96.29%",
+    "time": 575,
+    "timeDay": 679,
+    "timeWeek": 693,
+    "timeMonth": 654,
     "timeYear": 575,
     "dailyMinutesDown": {
+      "2025-03-03": 0,
       "2025-03-02": 963,
       "2025-03-01": 987,
       "2025-02-28": 963,
@@ -734,7 +734,7 @@
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1199,
-      "2025-02-21": 296
+      "2025-02-21": 256
     }
   },
   {
@@ -809,18 +809,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.partouze-cagoule.fr.ico",
     "slug": "partouze-cagoule",
     "status": "down",
-    "uptime": "76.84%",
+    "uptime": "76.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "76.84%",
+    "uptimeYear": "76.83%",
     "time": 413,
     "timeDay": 541,
     "timeWeek": 477,
     "timeMonth": 478,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2025-03-02": 1436,
+      "2025-03-03": 5,
+      "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
