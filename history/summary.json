@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/daheardit-records.net.ico",
     "slug": "da-heard-it-records-home",
     "status": "down",
-    "uptime": "93.09%",
+    "uptime": "93.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "57.34%",
-    "uptimeYear": "93.09%",
+    "uptimeMonth": "57.30%",
+    "uptimeYear": "93.08%",
     "time": 690,
     "timeDay": 492,
     "timeWeek": 628,
     "timeMonth": 683,
     "timeYear": 690,
     "dailyMinutesDown": {
+      "2025-03-06": 17,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
@@ -160,7 +161,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "26.52%",
+    "uptimeYear": "26.53%",
     "time": 1151,
     "timeDay": 856,
     "timeWeek": 1081,
@@ -318,8 +319,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -376,7 +376,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "22.88%",
+    "uptimeYear": "22.89%",
     "time": 422,
     "timeDay": 0,
     "timeWeek": 0,
@@ -537,8 +537,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -712,12 +711,12 @@
     "slug": "musiques-incongrues",
     "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "41.76%",
+    "uptimeDay": "42.91%",
     "uptimeWeek": "56.97%",
     "uptimeMonth": "90.10%",
     "uptimeYear": "98.61%",
     "time": 604,
-    "timeDay": 723,
+    "timeDay": 732,
     "timeWeek": 719,
     "timeMonth": 687,
     "timeYear": 604,
@@ -812,6 +811,7 @@
     "timeMonth": 482,
     "timeYear": 414,
     "dailyMinutesDown": {
+      "2025-03-06": 18,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
