@@ -1,4 +1,4 @@
-owner: constructions-incongrues
+eowner: constructions-incongrues
 repo: status
 
 sites:
@@ -41,7 +41,7 @@ sites:
 
   # musiques-incongrues.net
   - name: Musiques Incongrues
-    url: https://www.musiques-incongrues.net/forum/
+    url: https://www.musiques-incongrues.net/forum/people/
 
   # ouiedire.net
   - name: Ouïedire
