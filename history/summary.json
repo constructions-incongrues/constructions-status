@@ -162,7 +162,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "33.92%",
+    "uptimeYear": "33.93%",
     "time": 1146,
     "timeDay": 949,
     "timeWeek": 944,
@@ -311,8 +311,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   },
   {
@@ -369,7 +368,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.43%",
+    "uptimeYear": "30.45%",
     "time": 422,
     "timeDay": 0,
     "timeWeek": 0,
@@ -521,8 +520,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   },
   {
@@ -694,19 +692,19 @@
     "url": "https://www.musiques-incongrues.net/forum/people/",
     "icon": "https://icons.duckduckgo.com/ip3/www.musiques-incongrues.net.ico",
     "slug": "musiques-incongrues",
-    "status": "down",
-    "uptime": "97.80%",
-    "uptimeDay": "9.55%",
-    "uptimeWeek": "28.94%",
-    "uptimeMonth": "83.65%",
-    "uptimeYear": "97.80%",
+    "status": "up",
+    "uptime": "97.79%",
+    "uptimeDay": "9.58%",
+    "uptimeWeek": "28.63%",
+    "uptimeMonth": "83.58%",
+    "uptimeYear": "97.79%",
     "time": 565,
-    "timeDay": 364,
+    "timeDay": 371,
     "timeWeek": 405,
     "timeMonth": 590,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2025-03-14": 1271,
+      "2025-03-14": 1302,
       "2025-03-13": 1440,
       "2025-03-12": 1058,
       "2025-03-11": 1076,
@@ -790,7 +788,7 @@
     "uptime": "75.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "31.75%",
+    "uptimeMonth": "31.82%",
     "uptimeYear": "75.85%",
     "time": 422,
     "timeDay": 467,
