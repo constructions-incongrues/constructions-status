@@ -5,10 +5,6 @@ sites:
   # daheardit-records.net
   - name: Da ! Heard It Records - home
     url: https://daheardit-records.net/fr/
-  - name: Da ! Heard It Records  - api
-    url: https://api.daheardit-records.net/
-    expectedStatusCodes:
-      - 403
 
   # incongru.org
   - name: Discutons
