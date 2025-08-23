@@ -38,6 +38,8 @@ sites:
   # musiques-incongrues.net
   - name: Musiques Incongrues
     url: https://www.musiques-incongrues.net/forum/people/
+    expectedStatusCodes:
+      - 403
 
   # ouiedire.net
   - name: Ouïedire
