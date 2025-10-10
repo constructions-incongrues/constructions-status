@@ -37,9 +37,7 @@ sites:
 
   # musiques-incongrues.net
   - name: Musiques Incongrues
-    url: https://www.musiques-incongrues.net/forum/people/
-    expectedStatusCodes:
-      - 403
+    url: https://www.musiques-incongrues.net/
 
   # ouiedire.net
   - name: Ouïedire
