@@ -1,7 +1,7 @@
 url: https://coller.resterdigne.net
-status: up
-code: 200
-responseTime: 727
-lastUpdated: 2025-11-18T12:08:27.123Z
+status: down
+code: 500
+responseTime: 195
+lastUpdated: 2025-11-18T13:17:05.792Z
 startTime: 2024-08-25T20:46:24.695Z
 generator: Upptime <https://github.com/upptime/upptime>
