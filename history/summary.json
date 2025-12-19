@@ -111,10 +111,10 @@
     "url": "https://hypercriture.incongru.org/",
     "icon": "https://icons.duckduckgo.com/ip3/hypercriture.incongru.org.ico",
     "slug": "hypercriture",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 823,
@@ -123,6 +123,7 @@
     "timeMonth": 839,
     "timeYear": 824,
     "dailyMinutesDown": {
+      "2025-12-19": 1,
       "2025-01-25": 22
     }
   },
@@ -131,10 +132,10 @@
     "url": "https://legrandcahier.incongru.org",
     "icon": "https://icons.duckduckgo.com/ip3/legrandcahier.incongru.org.ico",
     "slug": "le-grand-cahier",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 580,
@@ -142,7 +143,9 @@
     "timeWeek": 639,
     "timeMonth": 591,
     "timeYear": 583,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-19": 1
+    }
   },
   {
     "name": "URL Info",
@@ -525,7 +528,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/partouze-cagoule.fr.ico",
     "slug": "partouze-cagoule",
     "status": "up",
-    "uptime": "81.78%",
+    "uptime": "81.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -706,7 +709,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kneeporn.partouze-cagoule.fr.ico",
     "slug": "kneeporn",
     "status": "up",
-    "uptime": "91.47%",
+    "uptime": "91.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -772,7 +775,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rosebud.partouze-cagoule.fr.ico",
     "slug": "rosebud",
     "status": "up",
-    "uptime": "91.48%",
+    "uptime": "91.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
