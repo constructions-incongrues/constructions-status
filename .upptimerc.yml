@@ -1,7 +1,12 @@
 owner: constructions-incongrues
-repo: status
+repo: constructions-status
 
 sites:
+  # constructions-incongrues.net
+  - name: Gliche
+    url: Gliche
+    url: https://gliche.constructions-incongrues.net
+
   # daheardit-records.net
   - name: Da ! Heard It Records - home
     url: https://daheardit-records.net/fr/
