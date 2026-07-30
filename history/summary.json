@@ -356,7 +356,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.44%",
+    "uptimeYear": "93.45%",
     "time": 1025,
     "timeDay": 1507,
     "timeWeek": 1474,
@@ -396,16 +396,16 @@
     "url": "https://www.ouiedire.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ouiedire.net.ico",
     "slug": "ouiedire",
-    "status": "down",
+    "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.63%",
-    "time": 846,
-    "timeDay": 830,
-    "timeWeek": 765,
-    "timeMonth": 765,
+    "uptimeDay": "95.30%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "98.61%",
+    "time": 845,
+    "timeDay": 855,
+    "timeWeek": 803,
+    "timeMonth": 803,
     "timeYear": 841,
     "dailyMinutesDown": {
       "2025-08-20": 1348,
@@ -420,7 +420,7 @@
       "2026-06-07": 612,
       "2026-06-06": 1440,
       "2026-06-05": 813,
-      "2026-07-30": 1
+      "2026-07-30": 68
     }
   },
   {
