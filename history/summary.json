@@ -264,17 +264,17 @@
     "url": "https://www.musiqueapproximative.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.musiqueapproximative.net.ico",
     "slug": "musique-approximative",
-    "status": "down",
+    "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.45%",
     "time": 1065,
-    "timeDay": 9988,
-    "timeWeek": 3316,
-    "timeMonth": 1897,
-    "timeYear": 1145,
+    "timeDay": 6932,
+    "timeWeek": 3039,
+    "timeMonth": 1855,
+    "timeYear": 1144,
     "dailyMinutesDown": {
       "2025-08-22": 1401,
       "2025-08-23": 294,
@@ -292,7 +292,7 @@
       "2026-04-23": 58,
       "2026-04-29": 71,
       "2026-05-11": 33,
-      "2026-08-21": 2
+      "2026-08-21": 16
     }
   },
   {
